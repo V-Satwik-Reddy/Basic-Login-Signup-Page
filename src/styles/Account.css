@@ -1,0 +1,13 @@
+input {
+    margin: 10px 0;
+    padding: 10px;
+    width: 100%;
+  }
+  button {
+    padding: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
